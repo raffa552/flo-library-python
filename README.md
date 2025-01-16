@@ -6,4 +6,4 @@ The purpose of this library is to make it easier for novice programmers to perfo
 for use you can open your terminal and paste 
 """bash
 pkg install git 
-git clone https:
+git clone https://github.com/raffa552/flo-library-python.git
