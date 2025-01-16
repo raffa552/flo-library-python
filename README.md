@@ -27,5 +27,5 @@ flo.connect('path and file')
 ```python
 from flo.flo import flo
 #for whrite file
-flo.whrite('path and file', 'text for white to file')
+flo.whrite('path and file', 'text for whrite to file')
 ```
