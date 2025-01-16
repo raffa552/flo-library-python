@@ -18,7 +18,7 @@ to use it in a script must be given
 ```python
 from flo.flo import flo
 ```
-###example script 
+### example script 
 ```python
 from flo.flo import flo
 #for read file
