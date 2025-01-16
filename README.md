@@ -10,3 +10,5 @@ For usage, you can open your terminal and paste the following command:
 ```bash
 pkg install git
 git clone https://github.com/raffa552/flo-library-python.git
+cd flo-library-python
+pip install flo
