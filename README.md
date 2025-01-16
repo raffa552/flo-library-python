@@ -1,9 +1,12 @@
-##what is flo library?
-library flo is a python library that I developed myself
-##what is the purpose?
-The purpose of this library is to make it easier for novice programmers to perform file operations. 
-##how to use?
-for use you can open your terminal and paste 
-"""bash
-pkg install git 
+## What is flo library?  
+Flo library is a Python library that I developed myself.
+
+## What is the purpose?  
+The purpose of this library is to make it easier for novice programmers to perform file operations.
+
+## How to install?  
+For usage, you can open your terminal and paste the following command:  
+
+```bash
+pkg install git
 git clone https://github.com/raffa552/flo-library-python.git
